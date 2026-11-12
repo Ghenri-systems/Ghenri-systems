@@ -6,7 +6,7 @@
 
 Estou no começo da minha jornada na tecnologia. Gosto de aprender na prática, registrar minha evolução e transformar ideias em projetos.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ghenri--systems-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghenri-systems)
+![GitHub](https://img.shields.io/badge/GitHub-Ghenri--systems-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghenri-systems)
 
 </div>
 
@@ -16,13 +16,20 @@ Estou no começo da minha jornada na tecnologia. Gosto de aprender na prática, 
 
 Estou aprendendo os fundamentos da programação e começando a organizar meus projetos com Git e GitHub.
 
+No dia a dia, trabalho com sistemas de gestão hospitalar: configuro e dou suporte a sistemas, escrevo consultas SQL, ajusto relatórios e mapeio processos. Agora quero somar a isso uma base sólida de programação.
 
-## 📚 O que estou aprendendo
+## 📚 O que estou mexendo
 
-- Lógica de programação e C++
-- C# — próximo passo nos meus estudos
+- Lógica de programação
+- JavaScript e c++ — próximo passo nos meus estudos
 - Git e GitHub para acompanhar meus projetos
-- BPMN e modelagem de processos
+- BPMN e modelagem de processos (fluxos de internação e faturamento hospitalar)
+- InfoMaker — relatórios em SQL e estrutura visual
+- HIS (Hospital Information System)
+- LIS (Laboratory Information System)
+- SQL e Firebird — consultas, filtros por data e regras de negócio
+- Instalação, configuração e backup de sistemas
+- Suporte de TI e criação de apresentações para ensinar o uso de módulos
 
 ### Exercícios de programação
 

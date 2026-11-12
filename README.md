@@ -16,7 +16,6 @@ Estou no começo da minha jornada na tecnologia. Gosto de aprender na prática, 
 
 Estou aprendendo os fundamentos da programação e começando a organizar meus projetos com Git e GitHub.
 
-Também estou desenvolvendo um processo de faturamento em BPMN. A primeira versão vai da chegada do paciente até a etapa de contas; ainda estou revisando os fluxos iniciais e trabalhando nas etapas finais.
 
 ## 📚 O que estou aprendendo
 
@@ -24,12 +23,6 @@ Também estou desenvolvendo um processo de faturamento em BPMN. A primeira vers�
 - C# — próximo passo nos meus estudos
 - Git e GitHub para acompanhar meus projetos
 - BPMN e modelagem de processos
-
-## 🚧 Projetos em andamento
-
-### Processo de faturamento em BPMN
-
-Primeira versão do fluxo, cobrindo da chegada do paciente até contas. O processo ainda está em construção e passará por revisões antes de ser concluído.
 
 ### Exercícios de programação
 

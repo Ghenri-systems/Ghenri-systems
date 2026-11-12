@@ -6,7 +6,7 @@
 
 Estou no começo da minha jornada na tecnologia. Gosto de aprender na prática, registrar minha evolução e transformar ideias em projetos.
 
-![GitHub](https://img.shields.io/badge/GitHub-Ghenri--systems-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghenri-systems)
+![GitHub](https://img.shields.io/badge/GitHub-Ghenri--systems-18181B?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Ghenri-systems)
 
 </div>
 

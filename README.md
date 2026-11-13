@@ -6,7 +6,10 @@
 
 Estou no começo da minha jornada na tecnologia. Gosto de aprender na prática, registrar minha evolução e transformar ideias em projetos.
 
-![GitHub](https://img.shields.io/badge/GitHub-Ghenri--systems-18181B?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -21,7 +24,7 @@ No dia a dia, trabalho com sistemas de gestão hospitalar: configuro e dou supor
 ## 📚 O que estou mexendo
 
 - Lógica de programação
-- JavaScript e c++ — próximo passo nos meus estudos
+- JavaScript e TypeScript — próximo passo nos meus estudos
 - Git e GitHub para acompanhar meus projetos
 - BPMN e modelagem de processos (fluxos de internação e faturamento hospitalar)
 - InfoMaker — relatórios em SQL e estrutura visual
